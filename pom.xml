@@ -83,8 +83,8 @@
 				<version>2.2</version>
 				<configuration>
 					<url>http://localhost:8082/manager/text</url>
-					<username>manager</username>
-					<password>manager</password>
+					<username>root</username>
+					<password>root</password>
 					<server>TomcatServer</server>
 					<path>/websample</path>
 				</configuration>
